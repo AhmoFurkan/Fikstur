@@ -40,7 +40,7 @@ public class FiksturOlusturucu {
 
                 maclar.add(new String[]{donenListe.get(evSahibiIndex), donenListe.get(deplasmanIndex)});
             }
-
+//
             this.round.add(maclar);
         }
 
